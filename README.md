@@ -81,4 +81,4 @@ The repository is configured for deployment on the Vercel platform using `@verce
 ## ✍️ Creator & Credits
 
 * **Created by**: Afroz Alam
-* **Contact Email**: [httppirates@protonmail.com](mailto:httppirates@protonmail.com)
+* **Contact Email**: [httppirate@protonmail.com](mailto:httppirate@protonmail.com)

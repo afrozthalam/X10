@@ -83,4 +83,4 @@ The repository is configured for deployment on the Vercel platform using `@verce
 ## ✍️ Creator & Credits
 
 * **Created by**: Afroz Alam
-* **Contact Email**: [codefather.inbox@gmail.com](mailto:codefather.inbox@gmail.com)
+* **Contact Email**: [inbox.afrozalam@gmail.com](mailto:inbox.afrozalam@gmail.com)

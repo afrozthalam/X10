@@ -54,11 +54,8 @@ pip install -r requirements.txt
 ### 2. Configure Environment Variables
 Create a file named `.env` in the root folder and add your API credentials:
 ```env
-GROQ_API_KEY_1=your_groq_key_1
-GROQ_API_KEY_2=your_groq_key_2
+GROQ_API_KEY=your_groq_key
 GOOGLE_API_KEY=your_gemini_key
-CLOUDFLARE_ACCOUNT_ID=your_cloudflare_account_id
-CLOUDFLARE_API_TOKEN=your_cloudflare_api_token
 ```
 
 ### 3. Run the App
